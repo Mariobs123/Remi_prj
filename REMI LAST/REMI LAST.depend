@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1680721916 source:h:\proiecte\remi last\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	<cstring>
+	<string>
+	<sstream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
