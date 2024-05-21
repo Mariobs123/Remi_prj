@@ -1494,7 +1494,6 @@ int main()
     cout<< " Program realizat de"<<endl;
     cout<<endl;
     cout<<"                Elev: BOANTA Mario Andrei"<< endl;
-    cout<<"                Elev: DRAGHICI Laurian"<< endl;
     cout<<"                Colegiul Gh.M. Murgoci - Braila"<< endl;
     cout<<"                                     CLS - XI-B"<< endl;
     cout<<endl;
